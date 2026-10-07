@@ -11,17 +11,18 @@ sections:
     id: hero
     content:
       username: me
-      greeting: "Hi, I'm"
+      greeting: "Hi, we're"
       show_status: true
       show_scroll_indicator: true
       typewriter:
         enable: true
-        prefix: "I build"
+        prefix: "We're interested in"
         strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
+          - "AI for Health"
+          - "Sustainability and Transport"
+          - "Trust and Ethics"
+          - "Autonomous Robots and Agents"
+          - "Evolutionary and Adaptive Intelligence"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
