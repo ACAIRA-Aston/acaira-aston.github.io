@@ -20,14 +20,14 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:a.ekart@aston.ac.uk
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnson
+    url: https://github.com/ACAIRA-Aston
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://www.linkedin.com/company/aston-centre-for-artificial-intelligence-research-and-application/posts/?feedView=all
+  - icon: brands/aston
+    url: https://research.aston.ac.uk/en/organisations/aston-centre-for-artificial-intelligence-research-and-application/publications/
 
 interests:
   - Web Development
