@@ -2,21 +2,21 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: ACAIRA
+  given: 
+  family: 
 postnominals: []
 status:
   icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+role: 
+email: a.ekart@aston.ac.uk
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  Welcome to the Aston Centre for Artificial Intelligence Research and Application (ACAIRA) Seminar Series website. 
+  At ACAIRA, we create impactful AI solutions to pressing social, health and environmental challenges, and educating the next generation of AI leaders.
 
 affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
+  - name: Aston University
+    url: https://www.aston.ac.uk/research/eps/acaira
 
 links:
   - icon: at-symbol
