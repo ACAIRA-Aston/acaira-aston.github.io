@@ -13,7 +13,7 @@ address:
   postcode:
   country: United Kingdom
 
-summary: A five-day ACM Europe Seasonal School on Responsible AI bringing together researchers, practitioners, and participants for expert talks, panels, practical project work, and discussions on the responsible development and deployment of AI.
+summary: A five-day ACM Europe Seasonal School on Responsible AI on the responsible development and deployment of AI.
 abstract: |
   The ACM Europe Seasonal School on Responsible AI, organised by the Aston Centre for Artificial Intelligence Research and Application (ACAIRA) at Aston University, hosted participants for a week of knowledge sharing, practical skills development, collaborative project work, and discussion around the responsible use of artificial intelligence.
 

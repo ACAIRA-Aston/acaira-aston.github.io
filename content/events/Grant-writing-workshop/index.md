@@ -13,7 +13,7 @@ address:
   postcode:
   country: United Kingdom
 
-summary: Bringing Aston academics and industry partners together to develop collaborative grant proposals around AI, robotics, transport, and sustainability.
+summary: Bringing Aston academics and industry partners together to develop collaborative grant proposals.
 abstract: |
   The first ACAIRA Interactive Grant Writing Workshop brought together researchers and industry partners around two complementary themes: Sustainability and Transport, and Autonomous Robots, Perception and Agents.
 

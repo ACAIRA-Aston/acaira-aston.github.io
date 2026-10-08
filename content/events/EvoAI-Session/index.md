@@ -13,7 +13,7 @@ address:
   postcode:
   country: United Kingdom
 
-summary: Informal discussion session for colleagues and PhD students interested in Evolutionary and Adaptive Intelligence (EAI), to help shape the upcoming EAI Research Forum series.
+summary: Discussion session for colleagues and PhD students interested in Evolutionary and Adaptive Intelligence.
 abstract: |
   An informal, discussion-based session for colleagues and PhD students interested in the Evolutionary and Adaptive Intelligence (EAI) theme.
 

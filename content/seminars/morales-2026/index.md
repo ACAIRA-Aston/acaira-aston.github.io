@@ -13,7 +13,7 @@ address:
   postcode:
   country: United Kingdom
 
-summary: Using symbolic regression to distill opaque machine learning models into interpretable mathematical equations.
+summary: Symbolic regression to distill opaque machine learning models into interpretable mathematical equations.
 abstract: |
   While high-capacity opaque machine learning models excel at fitting complex non-linear relationships, their lack of interpretability restricts scientific insight and limits safe deployment in engineering contexts. To bridge this gap, symbolic regression can be used to distill trained opaque models into explicit mathematical equations.
 
