@@ -15,7 +15,7 @@ address:
 
 summary: A five-day ACM Europe Seasonal School on Responsible AI bringing together researchers, practitioners, and participants for expert talks, panels, practical project work, and discussions on the responsible development and deployment of AI.
 abstract: |
-  The ACM Europe Seasonal School on Responsible AI, organised by the Aston Centre for Artificial Intelligence Research and Application (ACAIRA) at Aston University, brought together participants for a week of knowledge sharing, practical skills development, collaborative project work, and discussion around the responsible use of artificial intelligence.
+  The ACM Europe Seasonal School on Responsible AI, organised by the Aston Centre for Artificial Intelligence Research and Application (ACAIRA) at Aston University, hosted participants for a week of knowledge sharing, practical skills development, collaborative project work, and discussion around the responsible use of artificial intelligence.
 
   The programme brought together perspectives from academia, industry, professional organisations, and the wider AI community. Across the week, participants explored topics including trustworthy and responsible AI, AI ethics and sustainability, algorithmic bias, explainability, formal verification, intelligent mobility, healthcare, business applications, and the societal impact of AI.
 
@@ -137,4 +137,4 @@ Frank Rangeus
 [Talha Bin Nadeem](https://www.linkedin.com/in/talha-bin-nadeem-18560ab3/), [Akalamudo David](https://www.linkedin.com/in/akalamudo-david-156871229/)
 
 
-It was a great way to close a week centred on learning, collaboration, and responsible innovation—bringing together ideas from across academia, industry, and the wider AI community and turning them into practical solutions for societal challenges.
+It was a great way to close a week centred on learning, collaboration, and responsible innovation, bringing together ideas from across academia, industry, and the wider AI community and turning them into practical solutions for societal challenges.
