@@ -44,7 +44,7 @@ image:
   focal_point: Right
 
 links:
-  - icon: globe
+  - type: live
     name: Event Website
     url: https://www.aston.ac.uk/research/eps/acaira/events/summer-school-2026
 
@@ -62,16 +62,16 @@ The programme covered a broad range of perspectives on responsible AI, from tech
 
 The programme featured presentations and interactive sessions from experts across academia, industry, and professional organisations:
 
-- **Building Trust, Accountability, and Responsible Innovation in AI** — Dr Peter Lewis, Ontario Tech
-- **AstonMakers: What does it mean to be a maker in the age of AI?** — Prof Virginie Grzelczyk, Aston University
-- **Dialogue to Feedback: GenAI for Clinical Comms Training** — Dr Shereen Fouad, Aston University
-- **Bias Fields: A Geometric Framework for Diagnosing Structural Bias in Responsible AI** — Dr Howard Haughton, King's College London
-- **The Real Cost of AI: Ethics, Sustainability, and the Future of Work** — Abinaya Sowriraghavan, Ace Keystone Consultants
-- **Can We Prove AI Is Safe? Neural Network Verification with Vehicle** — Dr Luca Arnaboldi, University of Birmingham
-- **AI and ML for Business Efficiency, Performance, and Decision-Making** — Charlotte Burton, Thames Laboratories
-- **Responsible AI in Intelligent Mobility: Bridging Research and Real-World Impact** — Balazs Barnucz, Kapsch TrafficCom
-- **A Walk in ACM: Being Part of the World's Largest Computing Society** — Dr Georgia Koutrika, ACM Europe Council
-- **Distilling Opaque ML Models into Interpretable Equations with Symbolic Regression** — Dr Giorgio Morales, Aston University
+- **Building Trust, Accountability, and Responsible Innovation in AI**: Dr Peter Lewis, Ontario Tech
+- **AstonMakers: What does it mean to be a maker in the age of AI?**: Prof Virginie Grzelczyk, Aston University
+- **Dialogue to Feedback: GenAI for Clinical Comms Training**: Dr Shereen Fouad, Aston University
+- **Bias Fields: A Geometric Framework for Diagnosing Structural Bias in Responsible AI**: Dr Howard Haughton, King's College London
+- **The Real Cost of AI: Ethics, Sustainability, and the Future of Work**: Abinaya Sowriraghavan, Ace Keystone Consultants
+- **Can We Prove AI Is Safe? Neural Network Verification with Vehicle**: Dr Luca Arnaboldi, University of Birmingham
+- **AI and ML for Business Efficiency, Performance, and Decision-Making**: Charlotte Burton, Thames Laboratories
+- **Responsible AI in Intelligent Mobility: Bridging Research and Real-World Impact**: Balazs Barnucz, Kapsch TrafficCom
+- **A Walk in ACM: Being Part of the World's Largest Computing Society**: Dr Georgia Koutrika, ACM Europe Council
+- **Distilling Opaque ML Models into Interpretable Equations with Symbolic Regression**: Dr Giorgio Morales, Aston University
 
 The sessions provided perspectives spanning trustworthy AI, algorithmic bias, sustainability, healthcare, formal verification, intelligent mobility, business applications, professional computing, and interpretable machine learning. 
 
@@ -90,7 +90,7 @@ A central component of the school was the hands-on project programme. Participan
 
 The projects evolved through several stages:
 
-- **Project pitch** — teams presented their initial ideas and received feedback.
+- **Project pitch**: Teams presented their initial ideas and received feedback.
 - **MVP development and demonstration**
 - **Alpha development and demonstration**
 - **Beta development and demonstration**
@@ -109,28 +109,30 @@ The day began with a visit to **Aston University's Robotics Lab**, where partici
 
 The highlight of the day was the **final project presentations**, where the teams showcased the responsible AI solutions they had developed throughout the week. The projects reflected ideas and insights developed through the invited presentations, panel discussions, and breakout conversations, translating these discussions into practical solutions addressing real-world challenges.
 
-### Final projects
+#### Final projects
 
-**Team PRED(i)CKD — Winner**  
-*Predicting Chronic Kidney Disease Progression*  
-[Sebastian Paul](https://www.linkedin.com/in/sebastian-paul-a0287b2a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D), Sarah Ahmed, [Tiffany Yu](https://www.linkedin.com/in/tiffany-yu-84525b329/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D), [Jianhui Qian](https://www.linkedin.com/in/jiahui-qian-36a34b2b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D), [PRAISE EDEH](https://www.linkedin.com/in/praise-edeh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D)
+🏆 **1. Team PRED(i)CKD**  
+**Predicting Chronic Kidney Disease Progression**  
+Sebastian Paul, Sarah Ahmed, Tiffany Yu, Jianhui Qian, PRAISE EDEH
 
-**Team AOTP**  
-*Human in the Loop Supporting Decision Making Relating to Advertising Copy in Regulated Markets*  
-[Leum Dunn](https://www.linkedin.com/in/leumdunn/), [Dominic O’rume](https://www.linkedin.com/in/dominicrume/), [Mukul Mech](https://www.linkedin.com/in/mukulmech/), [Honey Yadav](https://www.linkedin.com/in/honey-yadav-researcher/), [Pawan S](https://www.linkedin.com/in/thepks/), Sawal Hussain
+💡 **2. Team AOTP**  
+**Human in the Loop Supporting Decision Making Relating to Advertising Copy in Regulated Markets**  
+[**Leum Dunn**](https://www.linkedin.com/in/leumdunn/), [**Dominic O’rume**](https://www.linkedin.com/in/dominicrume/), [**Mukul Mech**](https://www.linkedin.com/in/mukulmech/), [**Dr Honey Yadav, Ph.D.**](https://www.linkedin.com/in/honey-yadav-researcher/), [**Pawan S**](https://www.linkedin.com/in/thepks/), Sawal Hussain
 
-**Team Confused.de**  
-*Decision Partner for Human-Centred Agentic and Decision-Support AI*  
-[Sorin Pamfil](https://www.linkedin.com/in/sorin-pamfil/), Shuang Liu, [John Hamilton](https://www.linkedin.com/in/john-cr-hamilton/), Kuang Jiang
+🧭 **3. Team Confused.de**  
+**Decision Partner for Human-Centred Agentic and Decision-Support AI**  
+[**Sorin Pamfil, FCIPS, CMgr FCMI, CertIoD**](https://www.linkedin.com/in/sorin-pamfil/), Shuang Liu, [**John Hamilton**](https://www.linkedin.com/in/john-cr-hamilton/), Kuang Jiang
 
-**Team CareCompass**  
-*Human Centric Agentic Decision Support AI for Post-Discharge Chronic Care*  
-[Adebayo Daniel Omotola](https://www.linkedin.com/in/adebayo-omotola-sbda/), [Gauthami Niranjan](https://www.linkedin.com/in/gauthami-niranjan-217921200/), [Sheema Firdous](https://www.linkedin.com/in/sheema-firdous-67b9b818/)
+❤️ **4. Team CareCompass**  
+**Human Centric Agentic Decision Support AI for Post-Discharge Chronic Care**  
+[**Adebayo Daniel Omotola**](https://www.linkedin.com/in/adebayo-omotola-sbda/), [**Gauthami Niranjan**](https://www.linkedin.com/in/gauthami-niranjan-217921200/), [**Sheema Firdous**](https://www.linkedin.com/in/sheema-firdous-67b9b818/)
 
-**Team SimulateIT**  
-*AI Business Simulation Platform*  
+📊 **5. Team SimulateIT**  
+**AI Business Simulation Platform**  
 Frank Rangeus
 
-**Team Six**  
-*Can AI Predict Sunshine? Machine Learning for Solar Radiation Forecasting*  
-[Talha Bin Nadeem](https://www.linkedin.com/in/talha-bin-nadeem-18560ab3/), [Akalamudo David](https://www.linkedin.com/in/akalamudo-david-156871229/)
+☀️ **6. Team Six**  
+**Can AI Predict Sunshine? Machine Learning for Solar Radiation Forecasting**  
+[**Talha Bin Nadeem**](https://www.linkedin.com/in/talha-bin-nadeem-18560ab3/), [**Akalamudo David**](https://www.linkedin.com/in/akalamudo-david-156871229/)
+
+It was a great way to close a week centred on learning, collaboration, and responsible innovation—bringing together ideas from across academia, industry, and the wider AI community and turning them into practical solutions for societal challenges.
