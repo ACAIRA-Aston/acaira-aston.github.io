@@ -109,30 +109,32 @@ The day began with a visit to **Aston University's Robotics Lab**, where partici
 
 The highlight of the day was the **final project presentations**, where the teams showcased the responsible AI solutions they had developed throughout the week. The projects reflected ideas and insights developed through the invited presentations, panel discussions, and breakout conversations, translating these discussions into practical solutions addressing real-world challenges.
 
-#### Final projects
+
+### Team projects
 
 🏆 **1. Team PRED(i)CKD**  
-**Predicting Chronic Kidney Disease Progression**  
-Sebastian Paul, Sarah Ahmed, Tiffany Yu, Jianhui Qian, PRAISE EDEH
+*Predicting Chronic Kidney Disease Progression*  
+[Sebastian Paul](https://www.linkedin.com/in/sebastian-paul-a0287b2a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D), Sarah Ahmed, [Tiffany Yu](https://www.linkedin.com/in/tiffany-yu-84525b329/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D), [Jianhui Qian](https://www.linkedin.com/in/jiahui-qian-36a34b2b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D), [PRAISE EDEH](https://www.linkedin.com/in/praise-edeh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D)
 
 💡 **2. Team AOTP**  
-**Human in the Loop Supporting Decision Making Relating to Advertising Copy in Regulated Markets**  
-[**Leum Dunn**](https://www.linkedin.com/in/leumdunn/), [**Dominic O’rume**](https://www.linkedin.com/in/dominicrume/), [**Mukul Mech**](https://www.linkedin.com/in/mukulmech/), [**Dr Honey Yadav, Ph.D.**](https://www.linkedin.com/in/honey-yadav-researcher/), [**Pawan S**](https://www.linkedin.com/in/thepks/), Sawal Hussain
+*Human in the Loop Supporting Decision Making Relating to Advertising Copy in Regulated Markets*  
+[Leum Dunn](https://www.linkedin.com/in/leumdunn/), [Dominic O’rume](https://www.linkedin.com/in/dominicrume/), [Mukul Mech](https://www.linkedin.com/in/mukulmech/), [Honey Yadav](https://www.linkedin.com/in/honey-yadav-researcher/), [Pawan S](https://www.linkedin.com/in/thepks/), Sawal Hussain
 
 🧭 **3. Team Confused.de**  
-**Decision Partner for Human-Centred Agentic and Decision-Support AI**  
-[**Sorin Pamfil, FCIPS, CMgr FCMI, CertIoD**](https://www.linkedin.com/in/sorin-pamfil/), Shuang Liu, [**John Hamilton**](https://www.linkedin.com/in/john-cr-hamilton/), Kuang Jiang
+*Decision Partner for Human-Centred Agentic and Decision-Support AI*  
+[Sorin Pamfil](https://www.linkedin.com/in/sorin-pamfil/), Shuang Liu, [John Hamilton](https://www.linkedin.com/in/john-cr-hamilton/), Kuang Jiang
 
 ❤️ **4. Team CareCompass**  
-**Human Centric Agentic Decision Support AI for Post-Discharge Chronic Care**  
-[**Adebayo Daniel Omotola**](https://www.linkedin.com/in/adebayo-omotola-sbda/), [**Gauthami Niranjan**](https://www.linkedin.com/in/gauthami-niranjan-217921200/), [**Sheema Firdous**](https://www.linkedin.com/in/sheema-firdous-67b9b818/)
+*Human Centric Agentic Decision Support AI for Post-Discharge Chronic Care*  
+[Adebayo Daniel Omotola](https://www.linkedin.com/in/adebayo-omotola-sbda/), [Gauthami Niranjan](https://www.linkedin.com/in/gauthami-niranjan-217921200/), [Sheema Firdous](https://www.linkedin.com/in/sheema-firdous-67b9b818/)
 
-📊 **5. Team SimulateIT**  
-**AI Business Simulation Platform**  
+📊 **5. Team SimulateIT**   
+*AI Business Simulation Platform*  
 Frank Rangeus
 
 ☀️ **6. Team Six**  
-**Can AI Predict Sunshine? Machine Learning for Solar Radiation Forecasting**  
-[**Talha Bin Nadeem**](https://www.linkedin.com/in/talha-bin-nadeem-18560ab3/), [**Akalamudo David**](https://www.linkedin.com/in/akalamudo-david-156871229/)
+*Can AI Predict Sunshine? Machine Learning for Solar Radiation Forecasting*  
+[Talha Bin Nadeem](https://www.linkedin.com/in/talha-bin-nadeem-18560ab3/), [Akalamudo David](https://www.linkedin.com/in/akalamudo-david-156871229/)
+
 
 It was a great way to close a week centred on learning, collaboration, and responsible innovation—bringing together ideas from across academia, industry, and the wider AI community and turning them into practical solutions for societal challenges.
