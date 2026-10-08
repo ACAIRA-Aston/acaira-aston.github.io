@@ -49,7 +49,7 @@ sections:
     id: seminars
     content:
       title: "ACAIRA Seminar Series"
-      subtitle: "Check out some of the talks we host at our ACAIRA Seminar Series"
+      subtitle: "Our ACAIRA Seminar Series runs every other week at Aston University (Main Building). Room TBD."
       count: 0
       filters:
         folders:
