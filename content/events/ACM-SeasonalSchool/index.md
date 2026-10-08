@@ -30,11 +30,11 @@ authors:
   - me
 
 tags:
-  - AI for Health
-  - Sustainability and Transport
-  - Trust and Ethics
-  - Autonomous Robots and Agents
-  - Evolutionary and Adaptive Intelligence
+  - AI-Health
+  - Sustainability-Transport
+  - Trust-Ethics
+  - Robotics
+  - EvolutionaryAI
   - ACM
 
 featured: true
@@ -73,7 +73,7 @@ The programme featured presentations and interactive sessions from experts acros
 - **A Walk in ACM: Being Part of the World's Largest Computing Society** — Dr Georgia Koutrika, ACM Europe Council
 - **Distilling Opaque ML Models into Interpretable Equations with Symbolic Regression** — Dr Giorgio Morales, Aston University
 
-The sessions provided perspectives spanning trustworthy AI, algorithmic bias, sustainability, healthcare, formal verification, intelligent mobility, business applications, professional computing, and interpretable machine learning. :chatgpt-content-reference{index="1"}
+The sessions provided perspectives spanning trustworthy AI, algorithmic bias, sustainability, healthcare, formal verification, intelligent mobility, business applications, professional computing, and interpretable machine learning. 
 
 ## Panel discussions
 
@@ -97,32 +97,40 @@ The projects evolved through several stages:
 - **Final project development and demonstration**
 - **Project awards**
 
-This practical structure allowed participants to turn ideas from the presentations, panels, and breakout discussions into concrete responsible AI solutions. :chatgpt-content-reference{index="2"}
+This practical structure allowed participants to turn ideas from the presentations, panels, and breakout discussions into concrete responsible AI solutions. 
 
 The week also included opportunities for informal interaction, networking, meals, active breaks, and social activities, creating an environment for participants and experts to exchange ideas beyond the formal sessions.
 
 ## The final day
 
-The final day brought together the practical and collaborative work developed throughout the school.
+The final day brought the week to a close with a combination of practical demonstrations, project presentations, and reflections on the work developed throughout the school.
 
-💡 **A visit to Aston University's Robotics Lab.** Thank you, [**Zhuangzhuang Dai**](https://www.linkedin.com/in/zhuangzhuang-dai-140566144/), for the practical demos!
+The day began with a visit to **Aston University's Robotics Lab**, where participants had the opportunity to see practical demonstrations and learn more about the robotics research taking place at Aston. Many thanks to [**Zhuangzhuang Dai**](https://www.linkedin.com/in/zhuangzhuang-dai-140566144/) for showcasing the lab and providing the demonstrations.
 
-💡 **Impressive project presentations** showcasing the school participants' practical work. The teams used insights gained from invited speakers, panel discussions, and breakout conversations to produce responsible AI solutions for the betterment of society.
+The highlight of the day was the **final project presentations**, where the teams showcased the responsible AI solutions they had developed throughout the week. The projects reflected ideas and insights developed through the invited presentations, panel discussions, and breakout conversations, translating these discussions into practical solutions addressing real-world challenges.
 
-🏆 **Team PRED(i)CKD — winners:** *Predicting Chronic Kidney Disease Progression*  
-Sebastian Paul, Sarah Ahmed, Tiffany Yu, Jianhui Qian, PRAISE EDEH
+### Final projects
 
-🏆 **Team AOTP:** *Human in the Loop Supporting Decision Making Relating to Advertising Copy in Regulated Markets*  
-[**Leum Dunn**](https://www.linkedin.com/in/leumdunn/), [**Dominic O’rume**](https://www.linkedin.com/in/dominicrume/), [**Mukul Mech**](https://www.linkedin.com/in/mukulmech/), [**Dr Honey Yadav, Ph.D.**](https://www.linkedin.com/in/honey-yadav-researcher/), [**Pawan S**](https://www.linkedin.com/in/thepks/), Sawal Hussain
+**Team PRED(i)CKD — Winner**  
+*Predicting Chronic Kidney Disease Progression*  
+[Sebastian Paul](https://www.linkedin.com/in/sebastian-paul-a0287b2a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D), Sarah Ahmed, [Tiffany Yu](https://www.linkedin.com/in/tiffany-yu-84525b329/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D), [Jianhui Qian](https://www.linkedin.com/in/jiahui-qian-36a34b2b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D), [PRAISE EDEH](https://www.linkedin.com/in/praise-edeh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9KsN%2Fe09ROm0pTaYM3CNdg%3D%3D)
 
-🏆 **Team Confused.de:** *Decision Partner for Human-Centred Agentic and Decision-Support AI*  
-[**Sorin Pamfil, FCIPS, CMgr FCMI, CertIoD**](https://www.linkedin.com/in/sorin-pamfil/), Shuang Liu, [**John Hamilton**](https://www.linkedin.com/in/john-cr-hamilton/), Kuang Jiang
+**Team AOTP**  
+*Human in the Loop Supporting Decision Making Relating to Advertising Copy in Regulated Markets*  
+[Leum Dunn](https://www.linkedin.com/in/leumdunn/), [Dominic O’rume](https://www.linkedin.com/in/dominicrume/), [Mukul Mech](https://www.linkedin.com/in/mukulmech/), [Honey Yadav](https://www.linkedin.com/in/honey-yadav-researcher/), [Pawan S](https://www.linkedin.com/in/thepks/), Sawal Hussain
 
-🏆 **Team CareCompass:** *Human Centric Agentic Decision Support AI for Post-Discharge Chronic Care*  
-[**Adebayo Daniel Omotola**](https://www.linkedin.com/in/adebayo-omotola-sbda/), [**Gauthami Niranjan**](https://www.linkedin.com/in/gauthami-niranjan-217921200/), [**Sheema Firdous**](https://www.linkedin.com/in/sheema-firdous-67b9b818/)
+**Team Confused.de**  
+*Decision Partner for Human-Centred Agentic and Decision-Support AI*  
+[Sorin Pamfil](https://www.linkedin.com/in/sorin-pamfil/), Shuang Liu, [John Hamilton](https://www.linkedin.com/in/john-cr-hamilton/), Kuang Jiang
 
-🏆 **Team SimulateIT:** *AI Business Simulation Platform*  
+**Team CareCompass**  
+*Human Centric Agentic Decision Support AI for Post-Discharge Chronic Care*  
+[Adebayo Daniel Omotola](https://www.linkedin.com/in/adebayo-omotola-sbda/), [Gauthami Niranjan](https://www.linkedin.com/in/gauthami-niranjan-217921200/), [Sheema Firdous](https://www.linkedin.com/in/sheema-firdous-67b9b818/)
+
+**Team SimulateIT**  
+*AI Business Simulation Platform*  
 Frank Rangeus
 
-🏆 **Team Six:** *Can AI Predict Sunshine? Machine Learning for Solar Radiation Forecasting*  
-[**Talha Bin Nadeem**](https://www.linkedin.com/in/talha-bin-nadeem-18560ab3/), [**Akalamudo David**](https://www.linkedin.com/in/akalamudo-david-156871229/)
+**Team Six**  
+*Can AI Predict Sunshine? Machine Learning for Solar Radiation Forecasting*  
+[Talha Bin Nadeem](https://www.linkedin.com/in/talha-bin-nadeem-18560ab3/), [Akalamudo David](https://www.linkedin.com/in/akalamudo-david-156871229/)
