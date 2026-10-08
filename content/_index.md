@@ -28,7 +28,7 @@ sections:
         pause_time: 2500
       cta_buttons:
         - text: View Our Seminar Series
-          url: "#projects"
+          url: "#seminars"
           icon: arrow-down
         - text: Get In Touch
           url: "#contact"
