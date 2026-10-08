@@ -1,6 +1,6 @@
 ---
 title: "Evolutionary and Adaptive Intelligence (EAI) Discussion Session"
-date: '2026-10-27T14:00:00+01:00'
+date: '2026-10-07T14:00:00+01:00'
 
 event_name: Evolutionary and Adaptive Intelligence Discussion Session
 event_url:
