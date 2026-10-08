@@ -46,14 +46,14 @@ sections:
   
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
-    id: seminar
+    id: seminars
     content:
       title: "ACAIRA Seminar Series"
       subtitle: "Check out some of the talks we host at our ACAIRA Seminar Series"
       count: 0
       filters:
         folders:
-          - seminar
+          - seminars
   
   - block: portfolio
     id: events

@@ -4,10 +4,10 @@
 
 main:
   - name: Seminars
-    url: /#projects
+    url: /#seminars
     weight: 10
   - name: Events
-    url: /#skills
+    url: /#events
     weight: 20
   - name: Contact
     url: /#contact
