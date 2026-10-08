@@ -54,4 +54,4 @@ The discussion will focus on identifying activities, opportunities, and forms of
 **Time:** 2:00–3:00 pm  
 **Location:** MB220
 
-PhD students are very welcome and encouraged to attend.
+PhD students are very welcome and encouraged to attend. For more information, contact [Dr Chloe Barnes](mailto:c.barnes1@aston.ac.uk).
