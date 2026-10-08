@@ -46,14 +46,24 @@ sections:
   
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
-    id: projects
+    id: seminar
     content:
-      title: "Recent & Upcoming Talks"
+      title: "ACAIRA Seminar Series"
       subtitle: "Check out some of the talks we host at our ACAIRA Seminar Series"
       count: 0
       filters:
         folders:
-          - projects
+          - seminar
+  
+  - block: portfolio
+    id: events
+    content:
+      title: "Recent & Upcoming Events"
+      subtitle: "Check out some of the events we host at our ACAIRA"
+      count: 0
+      filters:
+        folders:
+          - events
       buttons:
         - name: All
           tag: '*'
@@ -61,18 +71,13 @@ sections:
           tag: AI-Health
         - name: Sustainability-Transport
           tag: Sustainability-Transport
-        - name: TrustEthics
-          tag: TrustEthics
+        - name: Trust-Ethics
+          tag: Trust-Ethics
         - name: Robotics
           tag: Robotics
         - name: EvolutionaryAI
           tag: EvolutionaryAI
       default_button_index: 0
-      # Archive link auto-shown if more projects exist than 'count' above
-      # archive:
-      #   enable: false  # Set to false to explicitly hide
-      #   text: "Browse All"  # Customize text
-      #   link: "/work/"  # Custom URL
     design:
       columns: 3
       background:
