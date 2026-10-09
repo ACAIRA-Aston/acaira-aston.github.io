@@ -5,7 +5,7 @@ date: '2026-10-08T13:00:00+01:00'
 event_name: ACAIRA Seminar Series
 event_url: 
 
-location: Main Building, Room TBD
+location: Main Building, Room MB231
 address:
   street:
   city: Birmingham
