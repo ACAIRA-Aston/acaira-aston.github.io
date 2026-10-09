@@ -33,7 +33,6 @@ tags:
   - Symbolic Regression
   - Explainable AI
   - EvolutionaryAI
-  - Equation Discovery
 
 featured: true
 
