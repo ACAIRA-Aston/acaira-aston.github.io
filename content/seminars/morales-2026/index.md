@@ -2,7 +2,7 @@
 title: "Distilling Opaque Machine Learning Models into Interpretable Equations with Symbolic Regression"
 date: '2026-10-08T13:00:00+01:00'
 
-event_name: 
+event_name: ACAIRA Seminar Series
 event_url: 
 
 location: Main Building, Room TBD
@@ -22,8 +22,8 @@ abstract: |
   Finally, we will discuss how this distillation framework could naturally extend to non-linear dynamical system identification (i.e., distilling surrogates trained on dynamic state data into white-box equations), opening exciting avenues for collaboration.
 
 # Talk start and end times.
-event_start: '2026-10-29T13:00:00+01:00'
-event_end: '2026-10-29T14:00:00+01:00'
+event_start: '2026-10-28T13:00:00+01:00'
+event_end: '2026-10-28T14:00:00+01:00'
 event_all_day: false
 
 authors:
