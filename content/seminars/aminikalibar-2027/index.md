@@ -1,5 +1,5 @@
 ---
-title: "Optimising EV charging network (21/04/27)"
+title: "Optimising EV charging networks (21/04/27)"
 date: '2026-10-14T13:00:00+01:00'
 
 event_name: ACAIRA Seminar Series
@@ -13,7 +13,7 @@ address:
   postcode:
   country: United Kingdom
 
-summary: Optimising EV charging network.
+summary: Optimising EV charging networks.
 abstract: |
     TBC
 
