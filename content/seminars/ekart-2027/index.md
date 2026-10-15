@@ -15,6 +15,7 @@ address:
 
 summary: Evaluating artificial intelligence using key colors for creativity, trust, accuracy, and sustainability.
 abstract: |
+    TBC
 
 # Talk start and end times.
 event_start: '2027-02-24T13:00:00+01:00'
