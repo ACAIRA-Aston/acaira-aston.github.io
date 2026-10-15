@@ -47,10 +47,6 @@ Aniko Ekárt is a Professor in Computer Science at Aston University, specialisin
 
 Prior to this, she was Director of Research Degree Programmes  (2020-2023) and Associate Dean for Postgraduate Studies (2017-2020) in the College of Engineering and Physical Sciences. She coordinated the development of  Aston's MSc Artificial Intelligence and MSc Artificial Intelligence with Business Strategy programmes and was programme director for these programmes until 2023. 
 
-She led the Aston team on the ADVANCE "Advanced predictive analysis based decision support engine for logistics" European research project coordinated by the Computer and Automation Research Institute of the Hungarian Academy of Sciences and in collaboration with the University of Gröningen, the Netherlands and industrial partners TTS, Italy and Palletways, UK. 
+She is a member of the Editorial Board of the Genetic Programming and Evolvable Machines (GPEM) and the Evolutionary Computation (ECJ) journals. She is partner editor of the Springer Nature Computer Science (SNCS) -- SPECIES topical issue on Applications of Evolutionary Computation.
 
 Her research interests range from specific theory and application of evolutionary computation to real-world applications of a variety of artificial intelligence and data mining methods, including domains such as engineering, health and art.
-
-In 2022, she received the EvoStar Award for Outstanding Contribution to Evolutionary Computation in Europe.
-
-She is a member of the Editorial Board of the Genetic Programming and Evolvable Machines (GPEM) and the Evolutionary Computation (ECJ) journals. She is partner editor of the Springer Nature Computer Science (SNCS) -- SPECIES topical issue on Applications of Evolutionary Computation.
