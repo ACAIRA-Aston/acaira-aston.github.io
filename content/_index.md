@@ -54,6 +54,9 @@ sections:
       filters:
         folders:
           - seminars
+      design:
+      view: article-grid
+      columns: 3
   
   - block: portfolio
     id: events
