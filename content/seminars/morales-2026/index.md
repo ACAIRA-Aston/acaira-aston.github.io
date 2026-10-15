@@ -1,5 +1,5 @@
 ---
-title: "Distilling Opaque Machine Learning Models into Interpretable Equations with Symbolic Regression"
+title: "Distilling Opaque Machine Learning Models into Interpretable Equations with Symbolic Regression (28/10/26)"
 date: '2026-10-08T13:00:00+01:00'
 
 event_name: ACAIRA Seminar Series

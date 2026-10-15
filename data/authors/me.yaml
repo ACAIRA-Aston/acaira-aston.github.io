@@ -9,7 +9,7 @@ postnominals: []
 status:
   icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
 role: 
-email: a.ekart@aston.ac.uk
+email: g.morales@aston.ac.uk
 bio: |
   Welcome to the Seminar Series website of Aston Centre for Artificial Intelligence Research and Application (ACAIRA), Aston University, Birmingham, UK. 
   At ACAIRA, we create impactful AI solutions to pressing social, health and environmental challenges, and educating the next generation of AI leaders.
@@ -20,7 +20,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:a.ekart@aston.ac.uk
+    url: mailto:g.morales@aston.ac.uk
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/ACAIRA-Aston
