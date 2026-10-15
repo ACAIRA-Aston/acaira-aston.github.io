@@ -1,5 +1,5 @@
 ---
-title: "What should be the colour of AI - purple, blue, red or green? (24/02/26)"
+title: "Prof Ang will present his research on AI-driven virtual humans and large-scale medical simulations (10/02/27)"
 date: '2026-10-14T13:00:00+01:00'
 
 event_name: ACAIRA Seminar Series
@@ -13,21 +13,21 @@ address:
   postcode:
   country: United Kingdom
 
-summary: Evaluating artificial intelligence using key colors for creativity, trust, accuracy, and sustainability.
+summary: A talk about human-centred digital health.
 abstract: |
     TBC
 
 # Talk start and end times.
-event_start: '2027-02-24T13:00:00+01:00'
-event_end: '2027-02-24T14:00:00+01:00'
+event_start: '2027-02-10T13:00:00+01:00'
+event_end: '2027-02-10T14:00:00+01:00'
 event_all_day: false
 
 authors:
   - me
 
 tags:
+  - AI-Health
   - Trust-Ethics
-  - Sustainability-Transport
 
 featured: true
 
@@ -38,15 +38,11 @@ image:
 links:
   - icon: user
     name: Presenter Profile
-    url: https://research.aston.ac.uk/en/persons/aniko-ek%C3%A1rt/
+    url: https://profiles.imperial.ac.uk/c.ang
 
 projects: []
 ---
 
-Aniko Ekárt is a Professor in Computer Science at Aston University, specialising in Artificial Intelligence. She is also Director of the Aston Centre for Artificial Intelligence Research and Application (ACAIRA). 
+Chee Siang (Jim) Ang is a Visiting Professor at the National Heart & Lung Institute, Imperial College London, specialising in human-centred digital health. His research focuses on designing and deploying technologies—including virtual/augmented reality, sensing, and AI-driven virtual humans—to improve well-being in real-world settings. He is currently developing empathic, trustworthy virtual humans to support medical training, patient care, and clinical decision-making. This includes virtual patients for clinical interview training, virtual assistants for people with motor neuron disease, and AI collaborators for clinicians.
 
-Prior to this, she was Director of Research Degree Programmes  (2020-2023) and Associate Dean for Postgraduate Studies (2017-2020) in the College of Engineering and Physical Sciences. She coordinated the development of  Aston's MSc Artificial Intelligence and MSc Artificial Intelligence with Business Strategy programmes and was programme director for these programmes until 2023. 
-
-She is a member of the Editorial Board of the Genetic Programming and Evolvable Machines (GPEM) and the Evolutionary Computation (ECJ) journals. She is partner editor of the Springer Nature Computer Science (SNCS) -- SPECIES topical issue on Applications of Evolutionary Computation.
-
-Her research interests range from specific theory and application of evolutionary computation to real-world applications of a variety of artificial intelligence and data mining methods, including domains such as engineering, health and art.
+Prof Ang is a Professor at University of Kent (Computing), and Kent and Medway Medical School. He is also Academic Co-Director of the Institute of Cultural and Creative Industries (iCCi) at Kent, where he leads research strategy of the Docking Station, a £14m immersive digital studio. Their goal is to harness creative technologies, including AI-driven virtual humans and large-scale medical simulations, to tackle health inequalities in coastal Kent.
