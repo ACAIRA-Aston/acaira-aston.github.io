@@ -1,5 +1,5 @@
 ---
-title: "What should be the colour of AI - purple, blue, red or green? (24/02/26)"
+title: "What should be the colour of AI - purple, blue, red or green? (24/02/27)"
 date: '2026-10-14T13:00:00+01:00'
 
 event_name: ACAIRA Seminar Series
@@ -32,7 +32,7 @@ tags:
 featured: true
 
 image:
-  caption: ''
+  caption: 'Generated with Gemini'
   focal_point: Center
 
 links:
