@@ -1,6 +1,6 @@
 ---
 title: "Optimising EV charging networks (21/04/27)"
-date: '2026-10-14T13:00:00+01:00'
+date: '2026-10-14T16:00:00+01:00'
 
 event_name: ACAIRA Seminar Series
 event_url: 
