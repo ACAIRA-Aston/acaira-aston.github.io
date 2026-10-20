@@ -44,7 +44,7 @@ links:
 projects: []
 ---
 
-Luis J. Manso is a Senior Lecturer (Associate Professor) in Computer Science at the College of Engineering and Physical Sciences of Aston University (joined in 08/2018) and a member of the [Autonomous Robotics and Perception Laboratory](https://arp-lab.com/).
+Luis J. Manso is a Senior Lecturer (Associate Professor) in Computer Science at the College of Engineering and Physical Sciences of Aston University (joined in 08/2018) and a member of the Autonomous Robotics and Perception Laboratory.
 Before that, he was a Research assistant (02/2010 to 07/2013) and Postdoctoral researcher (07/2013 to 07/2018) at the University of Extremadura. He obtained his degree in Computer Engineering and his PhD from the University of Extremadura in 2009 and 2013, respectively.
 
 His research interests include geometric learning, active perception, human-robot interaction and sparse predictive world models.
