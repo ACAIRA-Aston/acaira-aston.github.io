@@ -1,6 +1,6 @@
 ---
 title: "What should be the colour of AI - purple, blue, red or green? (24/02/27)"
-date: '2026-10-14T13:00:00+01:00'
+date: '2026-10-14T14:00:00+01:00'
 
 event_name: ACAIRA Seminar Series
 event_url: 
@@ -37,7 +37,7 @@ image:
 
 links:
   - icon: user
-    name: Presenter Profile
+    name: Presenter Profile - Anikó Ekárt
     url: https://research.aston.ac.uk/en/persons/aniko-ek%C3%A1rt/
 
 projects: []

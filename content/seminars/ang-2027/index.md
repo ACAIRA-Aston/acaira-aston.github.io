@@ -37,7 +37,7 @@ image:
 
 links:
   - icon: user
-    name: Presenter Profile
+    name: Presenter Profile - Chee Siang Ang
     url: https://profiles.imperial.ac.uk/c.ang
 
 projects: []

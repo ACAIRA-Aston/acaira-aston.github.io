@@ -42,7 +42,7 @@ image:
 
 links:
   - icon: user
-    name: Presenter Profile
+    name: Presenter Profile - Giorgio Morales
     url: https://giorgiomorales.github.io/
 
 projects: []

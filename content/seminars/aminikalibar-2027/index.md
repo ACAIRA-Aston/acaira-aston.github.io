@@ -36,7 +36,7 @@ image:
 
 links:
   - icon: user
-    name: Presenter Profile
+    name: Presenter Profile - Niloofar Aminikalibar
     url: https://research.aston.ac.uk/en/persons/niloofar-aminikalibar/
 
 projects: []
