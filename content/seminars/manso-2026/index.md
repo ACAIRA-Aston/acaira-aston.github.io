@@ -33,7 +33,7 @@ tags:
 featured: true
 
 image:
-  caption: 'Generated with Gemini'
+  caption: 'Credit: Luis Manso'
   focal_point: Center
 
 links:
