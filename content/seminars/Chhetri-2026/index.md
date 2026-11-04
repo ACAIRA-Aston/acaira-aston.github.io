@@ -49,48 +49,25 @@ links:
 projects: []
 ---
 
-<div style="margin: 25px 0;">
-  <a href="https://teams.microsoft.com/meet/3537441090221382?p=ywQxKMsT0Z06gjmQOQ"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="
-       display: inline-flex;
-       align-items: center;
-       gap: 12px;
-       padding: 13px 24px;
-       background-color: #6264A7;
-       color: white;
-       text-decoration: none;
-       border-radius: 8px;
-       font-weight: 600;
-       font-size: 16px;
-       box-shadow: 0 3px 8px rgba(0,0,0,0.15);
-       transition: background-color 0.2s ease;
-     ">
-    <i class="fab fa-microsoft" style="font-size: 22px;"></i>
-    Join Seminar via Microsoft Teams
-    <i class="fas fa-external-link-alt" style="font-size: 12px;"></i>
-  </a>
-</div>
-
 <div style="
     margin: 25px 0;
-    padding: 20px 24px;
-    background: #f3f5fc;
-    border-left: 5px solid #6264A7;
-    border-radius: 8px;
+    padding: 22px 24px;
+    background: #1e2233;
+    border: 1px solid #383e55;
+    border-left: 5px solid #8587e8;
+    border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 15px;
+    gap: 18px;
 ">
   <div>
-    <strong style="font-size: 17px; color: #333;">
-      <i class="fas fa-video" style="color: #6264A7;"></i>
+    <strong style="font-size: 17px; color: #f1f2f8;">
+      <i class="fas fa-video" style="color: #a5a6f5; margin-right: 8px;"></i>
       Attend Online
     </strong>
-    <p style="margin: 5px 0 0; color: #666;">
+    <p style="margin: 6px 0 0; color: #b5bbce;">
       Join the seminar remotely through Microsoft Teams.
     </p>
   </div>
@@ -99,17 +76,25 @@ projects: []
      target="_blank"
      rel="noopener noreferrer"
      style="
-       display: inline-block;
-       padding: 11px 20px;
+       display: inline-flex;
+       align-items: center;
+       gap: 9px;
+       padding: 12px 21px;
        background: #6264A7;
-       color: white;
-       border-radius: 6px;
+       color: #ffffff;
+       border: 1px solid #8587e8;
+       border-radius: 7px;
        text-decoration: none;
        font-weight: 600;
+       font-size: 14px;
        white-space: nowrap;
+       transition: all 0.2s ease;
      ">
-    Join Meeting →
+    <i class="fab fa-microsoft" style="font-size: 17px;"></i>
+    Join Meeting
+    <i class="fas fa-external-link-alt" style="font-size: 11px;"></i>
   </a>
 </div>
+
 
 Pranup Chhetri is an AI Specialist for Autonomous Systems and Knowledge Transfer Partnership (KTP) Associate working jointly between Aston University and Aurrigo, where he researches and develops decentralised fleet management and multi-agent task allocation technologies for autonomous vehicles. Holding an MSc in Artificial Intelligence from Aston University, where he graduated with a distinction and received multiple departmental awards for his dissertation on Graph Neural Networks for social robot navigation, he contributes to cutting-edge research in multi-agent systems, human-robot interaction, and reinforcement learning, with recent work presented at conferences such as EUMAS and UKAI 2026.
