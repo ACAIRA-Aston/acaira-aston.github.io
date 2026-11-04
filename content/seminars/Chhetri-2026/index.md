@@ -73,4 +73,43 @@ projects: []
   </a>
 </div>
 
+<div style="
+    margin: 25px 0;
+    padding: 20px 24px;
+    background: #f3f5fc;
+    border-left: 5px solid #6264A7;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
+">
+  <div>
+    <strong style="font-size: 17px; color: #333;">
+      <i class="fas fa-video" style="color: #6264A7;"></i>
+      Attend Online
+    </strong>
+    <p style="margin: 5px 0 0; color: #666;">
+      Join the seminar remotely through Microsoft Teams.
+    </p>
+  </div>
+
+  <a href="https://teams.microsoft.com/meet/3537441090221382?p=ywQxKMsT0Z06gjmQOQ"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="
+       display: inline-block;
+       padding: 11px 20px;
+       background: #6264A7;
+       color: white;
+       border-radius: 6px;
+       text-decoration: none;
+       font-weight: 600;
+       white-space: nowrap;
+     ">
+    Join Meeting →
+  </a>
+</div>
+
 Pranup Chhetri is an AI Specialist for Autonomous Systems and Knowledge Transfer Partnership (KTP) Associate working jointly between Aston University and Aurrigo, where he researches and develops decentralised fleet management and multi-agent task allocation technologies for autonomous vehicles. Holding an MSc in Artificial Intelligence from Aston University, where he graduated with a distinction and received multiple departmental awards for his dissertation on Graph Neural Networks for social robot navigation, he contributes to cutting-edge research in multi-agent systems, human-robot interaction, and reinforcement learning, with recent work presented at conferences such as EUMAS and UKAI 2026.
