@@ -1,6 +1,6 @@
 ---
 title: "Psychology and Neuroplasticity in the Age of AI (24/11/26)"
-date: '2026-10-09T15:00:00+01:00'
+date: '2026-10-09T14:00:10+01:00'
 
 event_name: ACAIRA Seminar Series
 event_url: 
@@ -38,7 +38,7 @@ image:
 
 links:
   - icon: user
-    name: Presenter Profile - Dr. Raúl V. Rodríguez
+    name: Presenter Profile - Raúl V. Rodríguez
     url: https://www.raulvrodriguez.in/
 
 projects: []
