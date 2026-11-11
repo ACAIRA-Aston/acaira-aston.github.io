@@ -103,7 +103,4 @@ Pranup Chhetri is an AI Specialist for Autonomous Systems and Knowledge Transfer
   <iframe src="https://1drv.ms/b/c/c56982f783f2d4b4/IQRGn4dATAbGQZWPYmR1J8nMAUMsoy-T5ITmOkNqyXfw2Ls"  frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 58.52%;">
-  <iframe src="https://liveastonac-my.sharepoint.com/personal/moralesg_aston_ac_uk/_layouts/15/embed.aspx?UniqueId=e1e885ee-58b3-4ab6-b8c9-b4aebd7de802&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create"  frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
 
