@@ -49,58 +49,15 @@ links:
 projects: []
 ---
 
-<div style="
-    margin: 25px 0;
-    padding: 22px 24px;
-    background: #1e2233;
-    border: 1px solid #383e55;
-    border-left: 5px solid #8587e8;
-    border-radius: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 18px;
-">
-  <div>
-    <strong style="font-size: 17px; color: #f1f2f8;">
-      <i class="fas fa-video" style="color: #a5a6f5; margin-right: 8px;"></i>
-      Attend Online
-    </strong>
-    <p style="margin: 6px 0 0; color: #b5bbce;">
-      Join the seminar remotely through Microsoft Teams.
-    </p>
-  </div>
-
-  <a href="https://teams.microsoft.com/meet/3537441090221382?p=ywQxKMsT0Z06gjmQOQ"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="
-       display: inline-flex;
-       align-items: center;
-       gap: 9px;
-       padding: 12px 21px;
-       background: #6264A7;
-       color: #ffffff;
-       border: 1px solid #8587e8;
-       border-radius: 7px;
-       text-decoration: none;
-       font-weight: 600;
-       font-size: 14px;
-       white-space: nowrap;
-       transition: all 0.2s ease;
-     ">
-    <i class="fab fa-microsoft" style="font-size: 17px;"></i>
-    Join Meeting
-    <i class="fas fa-external-link-alt" style="font-size: 11px;"></i>
-  </a>
-</div>
-
 
 Pranup Chhetri is an AI Specialist for Autonomous Systems and Knowledge Transfer Partnership (KTP) Associate working jointly between Aston University and Aurrigo, where he researches and develops decentralised fleet management and multi-agent task allocation technologies for autonomous vehicles. Holding an MSc in Artificial Intelligence from Aston University, where he graduated with a distinction and received multiple departmental awards for his dissertation on Graph Neural Networks for social robot navigation, he contributes to cutting-edge research in multi-agent systems, human-robot interaction, and reinforcement learning, with recent work presented at conferences such as EUMAS and UKAI 2026.
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 58.52%;">
   <iframe src="https://1drv.ms/b/c/c56982f783f2d4b4/IQRGn4dATAbGQZWPYmR1J8nMAUMsoy-T5ITmOkNqyXfw2Ls"  frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 58.52%;">
+  <iframe src="https://drive.google.com/file/d/1As_LL9y2T3RTNnY5J9Jj4mkseWlYlmcE/preview"  frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 

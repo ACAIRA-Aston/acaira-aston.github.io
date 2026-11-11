@@ -44,6 +44,53 @@ links:
 projects: []
 ---
 
+<div style="
+    margin: 25px 0;
+    padding: 22px 24px;
+    background: #1e2233;
+    border: 1px solid #383e55;
+    border-left: 5px solid #8587e8;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 18px;
+">
+  <div>
+    <strong style="font-size: 17px; color: #f1f2f8;">
+      <i class="fas fa-video" style="color: #a5a6f5; margin-right: 8px;"></i>
+      Attend Online
+    </strong>
+    <p style="margin: 6px 0 0; color: #b5bbce;">
+      Join the seminar remotely through Microsoft Teams.
+    </p>
+  </div>
+
+  <a href="https://teams.microsoft.com/meet/3537441090221382?p=ywQxKMsT0Z06gjmQOQ"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="
+       display: inline-flex;
+       align-items: center;
+       gap: 9px;
+       padding: 12px 21px;
+       background: #6264A7;
+       color: #ffffff;
+       border: 1px solid #8587e8;
+       border-radius: 7px;
+       text-decoration: none;
+       font-weight: 600;
+       font-size: 14px;
+       white-space: nowrap;
+       transition: all 0.2s ease;
+     ">
+    <i class="fab fa-microsoft" style="font-size: 17px;"></i>
+    Join Meeting
+    <i class="fas fa-external-link-alt" style="font-size: 11px;"></i>
+  </a>
+</div>
+
 Luis J. Manso is a Senior Lecturer (Associate Professor) in Computer Science at the College of Engineering and Physical Sciences of Aston University (joined in 08/2018) and a member of the Autonomous Robotics and Perception Laboratory.
 Before that, he was a Research assistant (02/2010 to 07/2013) and Postdoctoral researcher (07/2013 to 07/2018) at the University of Extremadura. He obtained his degree in Computer Engineering and his PhD from the University of Extremadura in 2009 and 2013, respectively.
 
