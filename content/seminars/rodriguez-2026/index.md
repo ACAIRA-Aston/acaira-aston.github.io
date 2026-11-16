@@ -1,6 +1,6 @@
 ---
 title: "Psychology and Neuroplasticity in the Age of AI (24/11/26)"
-date: '2026-10-09T14:00:10+01:00'
+date: '2026-10-09T13:00:10+00:00'
 
 event_name: ACAIRA Seminar Series
 event_url: 
